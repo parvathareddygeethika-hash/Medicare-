@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MediCare+",
+  "description": "Medicine Reminder \u0026 Health Tracker featuring schedule alerts, vitals graphs, appointments calendar, and health journaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
